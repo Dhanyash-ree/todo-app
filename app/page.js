@@ -76,7 +76,7 @@ export default function Home() {
     <main style={styles.page}>
       <div style={styles.container}>
         <h1 style={styles.title}>✨ Smart Todo Pro</h1>
-        <h1>🚀 Deployed Live Now</h1>
+       
 
         {/* Input */}
         <div style={styles.inputBox}>
